@@ -1,8 +1,11 @@
 #!/bin/bash
-# -----------------------------------
-# File: first-shell-script.sh
-# Purpose: My first shell script practice
-# What I learned:
-# - How to write a shell script
-# - How to run a script
-# 
+# Author: Kalpana
+# Purpose: Basic shell script tutorial
+# How to write and run this script:
+# 1. Open this file in vim: vim first-shell-script.sh
+# 2. To save changes in vim: :wq!
+# 3. To view content: cat first-shell-script.sh
+# 4. Give execution permission: chmod 777 first-shell-script.sh
+# 5. Run the script: ./first-shell-script.sh
+
+echo "Hello, this is the first shell script" 
